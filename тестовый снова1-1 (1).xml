@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2019-06-24 12:33">
+	<shop>
+		<name>www.karcher.ru</name>
+		<company>Керхер, ООО</company>
+		<url>https://www.karcher.ru</url>
+		<currencies>
+			<currency id="RUR" rate="1" plus="0"/>
+		</currencies>
+		<categories>
+			<category id="100">Минимойки высокого давления</category>
+			<category id="200">Пароочистители</category>
+			<category id="300">Пылесосы</category>
+			<category id="301" parentId="300">Хозяйственные пылесосы</category>
+			<category id="302" parentId="300">Циклонные пылесосы</category>
+			<category id="303" parentId="300">Вертикальные пылесосы</category>
+			<category id="304" parentId="300">Пылесосы с аквафильтром</category>
+			<category id="305" parentId="300">Моющие пылесосы</category>
+			<category id="400">Электровеники</category>
+			<category id="500">Стеклоочистители</category>
+			<category id="600">Аппараты для влажной уборки пола</category>
+			<category id="700">Подметальные машины</category>
+			<category id="800">Гладильные комплексы</category>
+			<category id="900">Насосы</category>
+			<category id="901" parentId="900">Поверхностные насосы</category>
+			<category id="902" parentId="900">Дренажные насосы</category>
+			<category id="903" parentId="900">Садовые насосы</category>
+			<category id="904" parentId="900">Насосные станции</category>
+			<category id=""/>
+		</categories>
+		<offers>
+			<offer id="16731590" bid="1" cbid="1" available="true">
+				<barcode/>
+				<name>Минимойка Керхер K 2 Basic</name>
+				<price>4990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>100</categoryId>
+				<typePrefix>Минимойка</typePrefix>
+				<vendor>Karcher</vendor>
+				<vendorCode>16731590</vendorCode>
+				<model>K 2 Basic</model>
+				<description>Минимойка высокого давления Керхер K 2 Basic - идеальный аппарат для периодического использования и простых бытовых загрязнений (велосипеды, садовые инструменты, садовая мебель)</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin/>
+				<vat>1</vat>
+			</offer>
+			<offer id="13491050" bid="1" cbid="1" available="true">
+				<barcode/>
+				<name>Вертикальный пылесос Керхер VC 5 </name>
+				<price>11990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<typePrefix>Вертикальный пылесос</typePrefix>
+				<vendor>Karcher</vendor>
+				<vendorCode>13491050</vendorCode>
+				<model>VC 5</model>
+				<description>Маленький и мощный: компактный безмешковой пылесос может храниться даже в самых маленьких помещениях, но по эффективности ничем не уступает обычным бытовым пылесосам.</description>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<country_of_origin/>
+				<vat>1</vat>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
