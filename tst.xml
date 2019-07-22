@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 <yml_catalog date="2019-06-24 12:33">
 	<shop>
@@ -27,7 +27,6 @@
 			<category id="902" parentId="900">Дренажные насосы</category>
 			<category id="903" parentId="900">Садовые насосы</category>
 			<category id="904" parentId="900">Насосные станции</category>
-			<category id=""/>
 		</categories>
 		<offers>
 			<offer id="16731590" bid="1" cbid="1" available="true">
