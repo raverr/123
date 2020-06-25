@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<yml_catalog date="2020-06-18">
+	<shop>
+		<company>ООО Хатбер-пресс сервис</company>
+		<url>https://hatberpress.ru</url>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="00-00000006">Товары ХПС</category>
+		</categories>
+		<offers>
+			<offer id="Кн22_км" available="true'">
+				<name>Учимся читать по слогам.8 кн. в комплекте</name>
+				<price>321</price>
+				<categoryId id="00-00000006"/>
+				<picture>https://hatberpress.ru/productimage/UT-00034713_1.jpg;</picture>
+				<vat>2</vat>
+				<barcode>9785375014005</barcode>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
