@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yml_catalog date="2020-07-02 19:45">
+    <shop>
+        <name>ИП Шелихова И. В. (магазин ДАРЫ Полесья)</name>
+        <company>ИП Шелихова И. В. (магазин ДАРЫ Полесья)</company>
+        <url>https://online.moysklad.ru/</url>
+        <platform>МойСклад</platform>
+        <currencies>
+            <currency id="RUB" rate="1" />
+        </currencies>
+        <categories>
+            <category id="1" parentId="2">Бытовая химия</category>
+            <category id="2" parentId="3">Дом и дача</category>
+            <category id="3">Все товары</category>
+            <category id="4" parentId="5">Ножницы</category>
+            <category id="5" parentId="6">Канцелярские принадлежности</category>
+            <category id="6" parentId="3">Все для офиса</category>
+        </categories>
+        <offers>
+            <offer id="66b02a4b2e6811e77a6" type="vendor.model">
+                <model>Suprim</model>
+                <vendor>СОНЦА</vendor>
+                <typePrefix>Вода для утюга</typePrefix>
+                <price>76</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://online.moysklad.ru/api/yandex/market/7ba2b6fc-2922-11e7-7a69-9711000094b0/picture/c7d77f41-8826-4e35-a674-ab59cd5960b8</picture>
+                <description>Suprim Вода для утюга Идеальное средство для утюгов с отпаривателем. Предохраняет внутренние детали утюга от образования известкового налета и накипи. Облегчает глажение, придает тканям легкий цветочный аромат. Не содержит красящих веществ.</description>
+                <country_of_origin>Беларусь</country_of_origin>
+                <barcode>4814628004885</barcode>
+                <param name="производитель">СОНЦА</param>
+                <param name="место производства">Белоруссия</param>
+                <param name="название линии">Suprim</param>
+                <param name="тип продукции">Вода для утюга</param>
+                <vat>0</vat>
+                <outlets>
+                    <outlet id="7bcae5a1-2922-11e7-7a69-9711002db9f3" instock="0" />
+                </outlets>
+                <url>https://online.moysklad.ru/</url>
+            </offer>
+            <offer id="6b8bf9682e6811e77a6" type="vendor.model">
+                <model>Красный металлист</model>
+                <vendor>Красный металлист</vendor>
+                <typePrefix>Ножницы</typePrefix>
+                <price>500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <description>Длина ножниц - 174 мм, Сталь - 40Х13</description>
+                <country_of_origin>Беларусь</country_of_origin>
+                <barcode>4810217000047</barcode>
+                <param name="производитель">Красный металлист</param>
+                <param name="место производства">Белоруссия</param>
+                <param name="название линии">Красный металлист</param>
+                <param name="тип продукции">Ножницы</param>
+                <vat>0</vat>
+                <outlets>
+                    <outlet id="7bcae5a1-2922-11e7-7a69-9711002db9f3" instock="1" />
+                </outlets>
+                <url>https://online.moysklad.ru/</url>
+            </offer>
+            <offer id="6b8cabfd2e6811e77a6" type="vendor.model">
+                <model>Красный металлист</model>
+                <vendor>Красный металлист</vendor>
+                <typePrefix>Ножницы</typePrefix>
+                <price>260</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <description>Длина ножниц - 174 мм, Сталь - 40Х13</description>
+                <country_of_origin>Беларусь</country_of_origin>
+                <barcode>4810217000290</barcode>
+                <param name="место производства">Белоруссия</param>
+                <param name="производитель">Красный металлист</param>
+                <param name="название линии">Красный металлист</param>
+                <param name="тип продукции">Ножницы</param>
+                <vat>0</vat>
+                <outlets>
+                    <outlet id="7bcae5a1-2922-11e7-7a69-9711002db9f3" instock="0" />
+                </outlets>
+                <url>https://online.moysklad.ru/</url>
+            </offer>
+            <offer id="d42d6292766011e89ff" type="vendor.model">
+                <model>Красный металлист</model>
+                <vendor>Красный металлист</vendor>
+                <typePrefix>Ножницы</typePrefix>
+                <price>290</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <description>Ножницы Могилев,портновские,215мм.</description>
+                <country_of_origin>Россия</country_of_origin>
+                <barcode>Н-043</barcode>
+                <param name="место производства">Белоруссия</param>
+                <param name="производитель">Красный металлист</param>
+                <param name="название линии">Красный металлист</param>
+                <param name="тип продукции">Ножницы</param>
+                <vat>0</vat>
+                <outlets>
+                    <outlet id="7bcae5a1-2922-11e7-7a69-9711002db9f3" instock="0" />
+                </outlets>
+                <url>https://online.moysklad.ru/</url>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
